@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "The Ultimate Guide to Digital Marketing for Small Businesses",
+    "slug": "digital-marketing-small-businesses-guide",
+    "excerpt": "Learn how small businesses can leverage digital marketing strategies to compete with larger companies and grow their online presence effectively.",
+    "content": "Digital marketing has become essential for businesses of all sizes. In this comprehensive guide, we'll explore the most effective strategies that small businesses can implement to compete with larger companies...",
+    "author": "Neil Christy",
+    "date": "2024-01-15",
+    "category": "Digital Marketing",
+    "tags": ["Digital Marketing", "Small Business", "SEO", "Social Media"],
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop",
+    "readTime": "8 min read"
+  },
+  {
+    "id": 2,
+    "title": "SEO Trends That Will Shape 2024: What Businesses Need to Know",
+    "slug": "seo-trends-2024-businesses",
+    "excerpt": "Stay ahead of the competition with the latest SEO trends and strategies that will dominate search rankings in 2024.",
+    "content": "Search engine optimization continues to evolve rapidly. As we move through 2024, several key trends are shaping how businesses should approach their SEO strategy...",
+    "author": "Neil Christy",
+    "date": "2024-01-22",
+    "category": "SEO",
+    "tags": ["SEO", "Search Engine Optimization", "Google", "Rankings"],
+    "image": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?w=800&h=400&fit=crop",
+    "readTime": "6 min read"
+  },
+  {
+    "id": 3,
+    "title": "Building an Effective Social Media Strategy for Local Businesses",
+    "slug": "social-media-strategy-local-businesses",
+    "excerpt": "Discover how local businesses can use social media to connect with their community and drive more foot traffic to their locations.",
+    "content": "Social media marketing for local businesses requires a different approach than national brands. Here's how to create a strategy that resonates with your local community...",
+    "author": "Neil Christy",
+    "date": "2024-01-29",
+    "category": "Social Media",
+    "tags": ["Social Media", "Local Business", "Community Engagement"],
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=400&fit=crop",
+    "readTime": "7 min read"
+  },
+  {
+    "id": 4,
+    "title": "Why Your Business Needs a Professional Website in 2024",
+    "slug": "why-business-needs-professional-website-2024",
+    "excerpt": "In today's digital age, a professional website isn't just nice to have – it's essential. Learn why and how to get started.",
+    "content": "Your website is often the first impression customers have of your business. Here's why investing in a professional website is crucial for your success...",
+    "author": "Neil Christy",
+    "date": "2024-02-05",
+    "category": "Web Development",
+    "tags": ["Website Development", "Web Design", "Business Growth"],
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&h=400&fit=crop",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 5,
+    "title": "Cloud Services for Small Businesses: A Complete Guide",
+    "slug": "cloud-services-small-businesses-guide",
+    "excerpt": "Explore how cloud services can help small businesses scale efficiently while reducing costs and improving security.",
+    "content": "Cloud computing has revolutionized how businesses operate. For small businesses, the cloud offers opportunities to compete with larger enterprises...",
+    "author": "Neil Christy",
+    "date": "2024-02-12",
+    "category": "Cloud Services",
+    "tags": ["Cloud Computing", "AWS", "Business Efficiency", "Cost Savings"],
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop",
+    "readTime": "9 min read"
+  }
+]

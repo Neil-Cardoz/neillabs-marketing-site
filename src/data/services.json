@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Marketing",
+    "icon": "📊",
+    "shortDescription": "Comprehensive digital marketing strategies that drive growth and engagement across all channels.",
+    "description": "Transform your business with data-driven digital marketing strategies. We help businesses reach their target audience through strategic campaigns across social media, search engines, and digital platforms. Our approach focuses on measurable results and ROI optimization.",
+    "features": [
+      "Social Media Marketing",
+      "Pay-Per-Click Advertising (PPC)",
+      "Content Marketing Strategy",
+      "Email Marketing Campaigns",
+      "Marketing Analytics & Reporting",
+      "Conversion Rate Optimization"
+    ],
+    "price": "Starting at $999/month",
+    "color": "#3B82F6"
+  },
+  {
+    "id": 2,
+    "title": "Search Engine Optimization (SEO)",
+    "icon": "🔍",
+    "shortDescription": "Boost your online visibility and organic traffic with proven SEO strategies.",
+    "description": "Dominate search results with our comprehensive SEO services. We optimize your website to rank higher on Google and other search engines, driving organic traffic and qualified leads to your business. Our white-hat techniques ensure sustainable long-term growth.",
+    "features": [
+      "Technical SEO Audits",
+      "Keyword Research & Strategy",
+      "On-Page Optimization",
+      "Local SEO for Local Businesses",
+      "Link Building & Content Outreach",
+      "SEO Performance Tracking"
+    ],
+    "price": "Starting at $799/month",
+    "color": "#10B981"
+  },
+  {
+    "id": 3,
+    "title": "Social Media Management",
+    "icon": "📱",
+    "shortDescription": "Build meaningful connections with your audience through strategic social media presence.",
+    "description": "Elevate your brand's social media presence with our comprehensive management services. We create engaging content, manage your community, and build authentic relationships with your audience across all major platforms.",
+    "features": [
+      "Content Creation & Curation",
+      "Community Management",
+      "Social Media Strategy Development",
+      "Platform-Specific Optimization",
+      "Influencer Collaboration",
+      "Social Media Analytics"
+    ],
+    "price": "Starting at $599/month",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": 4,
+    "title": "Website Development",
+    "icon": "💻",
+    "shortDescription": "Custom websites that convert visitors into customers and reflect your brand perfectly.",
+    "description": "Build a powerful online presence with our custom website development services. We create responsive, fast-loading, and user-friendly websites that not only look great but also drive conversions and business growth.",
+    "features": [
+      "Custom Web Design",
+      "Responsive Mobile Development",
+      "E-commerce Solutions",
+      "CMS Integration",
+      "Website Speed Optimization",
+      "SEO-Ready Development"
+    ],
+    "price": "Starting at $2,999",
+    "color": "#F59E0B"
+  },
+  {
+    "id": 5,
+    "title": "Cloud Services & Deployment",
+    "icon": "☁️",
+    "shortDescription": "Scalable cloud infrastructure and deployment solutions for modern businesses.",
+    "description": "Future-proof your business with our cloud services and deployment solutions. We help you migrate, deploy, and manage your applications in the cloud for better scalability, security, and performance.",
+    "features": [
+      "Cloud Migration Strategy",
+      "AWS/Azure/GCP Deployment",
+      "DevOps & CI/CD Pipelines",
+      "Cloud Security Implementation",
+      "Monitoring & Maintenance",
+      "Cost Optimization"
+    ],
+    "price": "Starting at $1,299/month",
+    "color": "#EF4444"
+  }
+]
